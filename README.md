@@ -2,6 +2,10 @@
 # Modelo de avaliação e validação
 ## Projeto: Prevendo o preço de imóveis de Boston
 
+#### Caso queira ver o httml gerado do juypter sem a necessidade 
+de clonar o projeto, acesse 
+[aqui](http://boston-housing-rfa.surge.sh/ "Projeto Final")
+
 ### Instalação
 
 Este projeto requer **Python 3** e as seguintes bibliotecas Python:
